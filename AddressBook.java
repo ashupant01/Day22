@@ -26,7 +26,7 @@ public class AddressBook {
 			addressBook.askUser();
 		}
 
-		/** Menu **/
+
 		void askUser() {
 			System.out.println("Select an action..");
 			System.out.println("1. Add a person");
